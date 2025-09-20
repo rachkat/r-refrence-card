@@ -6,7 +6,7 @@
 
 A one-pager of R/RStudio basics, data wrangling, modeling, and plotting compiled from course notes.
 
-- 📄 **View/Download the PDF:** [`R_Reference_Card.pdf`](./r-refrence-card.pdf)
+- 📄 **View/Download the PDF:** [`r-reference-card.pdf`](./r-refrence-card.pdf)
 
 ## Preview (pages)
 <p>
